@@ -1,0 +1,11 @@
+# Chrome Browser
+deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main
+
+# Vivaldi Browser
+deb http://repo.vivaldi.com/stable/deb/ stable main
+
+# Skype
+deb [arch=amd64] https://repo.skype.com/deb stable main
+
+# Virtualbox
+deb http://download.virtualbox.org/virtualbox/debian stretch contrib
